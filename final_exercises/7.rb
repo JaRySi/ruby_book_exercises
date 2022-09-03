@@ -1,0 +1,1 @@
+# The major difference between arrays and hashes is that arrays only store individual indexed values, where as hashes store key value pairs.
